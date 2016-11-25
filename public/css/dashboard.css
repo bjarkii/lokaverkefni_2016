@@ -1,0 +1,37 @@
+/* FONTS */
+
+
+/* ELEMENTS */
+/* inputs */
+.input-wrap {
+  padding: 10px;
+}
+
+.input-wrap label {
+  display: block;
+}
+
+.input-wrap input {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+  font-size: 18px;
+  padding: 5px;
+}
+
+.submit-button .send-btn {
+  background: #e51e35;
+  color: white;
+  padding: 20px;
+}
+
+/* error message */
+
+.alert-box {
+  padding: 20px;
+  background: #ccc;
+  color: white;
+  text-align: center;
+}
+
+/* LAYOUTS */
